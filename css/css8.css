@@ -1,0 +1,30 @@
+
+body{
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  background: linear-gradient(red, blue, yellow, green, purple, orange);
+}
+
+.hijo {
+  width: 30%;
+  margin: auto;
+  background-color: #F6DDCC;
+  text-align:center;
+}
+
+.padre{
+  background-color: #D5F5E3;
+}
+
+a{
+    font-size: 30px;	
+    text-decoration: none;
+    padding: 10px;
+    background-color: cadetblue;
+
+}
+
+a:hover{
+    color: green;
+}
